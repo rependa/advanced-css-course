@@ -199,7 +199,11 @@ body {
       .card__side--back-3 {
         background-image: linear-gradient(to right bottom, #2998ff, #5643fa); }
   .card:hover .card__side--front {
+<<<<<<< HEAD
     transform: rotateY(-180deg); }
+=======
+    transform: rotateY(180deg); }
+>>>>>>> e82293bf182030fec56e7a89ee9eb143d8cd8251
   .card:hover .card__side--back {
     transform: rotateY(0deg); }
 
